@@ -126,7 +126,9 @@ project.fragment.lock.json
 appsettings.json
 bin/
 obj/
-.vs/
+.vs
+TestServer.sin
+
 artifacts/
 
 

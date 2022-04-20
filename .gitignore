@@ -123,12 +123,8 @@ BenchmarkDotNet.Artifacts/
 # .NET Core
 project.lock.json
 project.fragment.lock.json
-appsettings.json
 artifacts/
-bin/
-obj/
-properties/
-.vs
+
 
 # StyleCop
 StyleCopReport.xml

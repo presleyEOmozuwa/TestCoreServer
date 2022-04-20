@@ -129,7 +129,7 @@ bin/
 obj/
 properties/
 .vs
-TestServer.sin
+*.sln
 
 artifacts/
 
